@@ -8,3 +8,9 @@ body {
 .bodypar {
   text-align: left;
 }
+
+li
+{
+    list-style-position:inside;
+    text-align: left;
+}
